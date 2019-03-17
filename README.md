@@ -8,5 +8,3 @@ Sass
 NPM Package Manager
 JavaScript
 Git
-
-This project was inspired by Brad Traversay @ Traversy Media
