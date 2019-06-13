@@ -11,8 +11,8 @@
   "author": "Jay Wongkot",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^1.2.0",
+    "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.12.0"
   }
 }
