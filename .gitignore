@@ -1,3 +1,4 @@
 node_modules
 dist/img/
 .vscode
+scss/main.css.map
